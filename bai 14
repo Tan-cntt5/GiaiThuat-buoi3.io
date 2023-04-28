@@ -1,0 +1,5 @@
+struct Node {
+    int data; // Giá trị của nút
+    struct Node* left; // Con trỏ sang nút con bên trái
+    struct Node* right; // Con trỏ sang nút con bên phải
+}
