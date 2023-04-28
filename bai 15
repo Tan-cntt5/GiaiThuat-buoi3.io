@@ -1,0 +1,5 @@
+struct Node {
+    int data; // Giá trị của nút
+    Node* prev; // Con trỏ sang nút trước đó trong danh sách
+    Node* next; // Con trỏ sang nút tiếp theo trong danh sách
+}
